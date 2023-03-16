@@ -1,0 +1,36 @@
+
+.grid {
+    
+    display: grid; grid-template-columns:60% 40%;
+}
+
+.grid1 h2 {
+    font-family: cursive;color: rgb(39, 39, 121); 
+}
+
+
+.grid1 p {
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; color: rgb(27, 26, 26);
+}
+#cl {
+    
+    background-color: rgb(17, 158, 223); padding:10px;
+}
+.grid1 input {
+    font-family: cursive; color: black;
+}
+
+fieldset{
+    
+    height: fit-content; width: fit-content; background-color: black;
+
+}
+.map iframe {
+
+    height: 500px; width: 500px;
+}
+
+.map h1 {font-family: cursive;
+
+}
+ 

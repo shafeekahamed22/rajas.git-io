@@ -1,0 +1,53 @@
+li a {text-decoration: none;}
+ul li {list-style-type: none; ;}
+li  {display: inline-block;  }
+.head {text-align: right; background-color: rgba(9, 6, 43, 0.664);
+padding-right: 20px;padding-top: 5px; padding-bottom: 5px;}
+
+.head ul :hover {background-color: brown;}
+
+li a {padding-left:10px ; padding-right: 10px;color: aliceblue;}
+
+
+.grid1 {display: grid; grid-template-columns: auto auto; background-color: aliceblue;}
+.nav li a { color: black;  padding-left: 25px;}
+.nav a {padding-top: 10px; padding-bottom: 10px;}
+.nav ul li a:hover {background-color: rgb(137, 103, 231);}
+
+.images {text-align: right;padding-right: 120px;}
+
+.logo { padding-right: 200px; padding-left: 200px; background-color: rgb(214, 205, 205);}
+
+.welcome h1 { text-align: center;}
+.welcome p {text-align: center;}
+
+.carousel h1 {text-align: center;}
+.grid3 { background-color: blue;}
+
+
+.d{display: grid;grid-template-columns: 25% 50% 25%;}
+.d1 p{ background-color: brown; padding-bottom: 400px; padding-top: 60px; margin-top: auto; padding-right: 10px; padding-left: 10px; max-width: none;}
+
+
+
+
+.grid5 {display: grid; grid-template-columns: auto auto;}
+
+.mmm {padding-top: 40px; padding-bottom: 40px;}
+
+
+.our {text-align: center;}
+
+
+
+.final { display: grid; grid-template-columns: auto auto auto auto;}
+
+.final {background-color: rgb(7, 7, 7); }
+
+.final h1 { color: rgb(211, 30, 30);}
+
+.for p{color:white;}
+
+.last p{color: white;}
+
+hr {color: red;}
